@@ -61,7 +61,7 @@
             - IP Adapter를 이용하거나 다른 기술을 사용하는 등 방법을 모색.
   
         - 추론 속도 향상
-          - 현재 사용중인 모델에서는 발생하는 torch.Compile 사용 문제의 원인을 파악하고 해결 방법을 모색.
+            - 현재 사용중인 모델에서는 발생하는 torch.Compile 사용 문제의 원인을 파악하고 해결 방법을 모색.
            
         - Scheduler 업데이트
-          - LCM Scheduler 대신 LCD Scheduler를 적용하여 모델의 추론 속도를 개선하도록 설정을 변경.
+            - LCM Scheduler 대신 LCD Scheduler를 적용하여 모델의 추론 속도를 개선하도록 설정을 변경.
