@@ -14,10 +14,13 @@
 # 2. 데이터 설명
     1) 사용 데이터 설명
         - 데이터 출처
-        - 데이터 타입
-        - 데이터 크기
+            - Synthetic Face High Quality (SFHQ)
+            - 주소 : https://www.kaggle.com/datasets/selfishgene/synthetic-faces-high-quality-sfhq-part-1?resource=download            
+        - 데이터 타입: image
+        - 데이터 크기: 1024 * 1024 
     2) 데이터 전처리 과정 및 방법
-        - ㅋㅋ
+        - canny를 이용하여 특성을 추출
+![canny.jpg](img\canny.jpg)
 
 # 3. 모델링 기법 후보    
     1) 모델 기법
