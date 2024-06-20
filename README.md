@@ -24,22 +24,38 @@
 
 # 3. 모델링 기법 후보    
     1) 모델 기법
-        -
-    2) 구조
-        -
-    3) pretrained 모델 사용한 경우 
-        -
+        - Stable Diffusion
+        - Ltent Diffusion
+        - VAE
+        - CLIP
+        - U-Net
+        - Scheduler 
+#### 2) 구조
 
+1. Stable Diffusion
+![Stable_Diffusion.png](img\Stable_Diffusion.png)
+2. Latent Diffusion
+![Latent_Diffsuion.png](img\Latent_Diffsuion.png)
+3. VAE
+![VAE.png](img\VAE.png)
+4. CLIP
+![CLIP.png](img\CLIP.png)
+5. U-Net
+![U_Net.png](img\U_Net.png)
+6. Scheduler
+![Scheduler.png](img\Scheduler.png)
+- step별로 노이즈의 정도 설정
 # 4. 모델 선정 기준 및 모델링 기법들 비교
     1) 모델 선정 기준
-        -
-        -
+        - SDXL : 안정적인 확산 모델을 기반으로 한다
+        - Dreambooth : 특정 텍스트 토큰을 제공한 이미지의 Feature에 Overfitting 시켜 해당 토큰이 포함된 이미지를 생성할 때 원하는 Feature를 생성할 수 있게 함
+        - LoRA : 전체 Weight를 새로 학습하는 것보다는 성능이 낮을 수 있지만. 빠른 학습 속도, 작은 용량, 확장성, 기존 학습 내용 보존 등의 다양한 이점을 제공
     2) 각 모델의 선정 기준 적합성
         - 각 모델의 성능 지표 비교
     3) 학습 시간 및 리소스 요구 사항 비교
         -
     4) 각 모델의 장단점 분석
-
+        - 
 # 5. 선정된 기법
     a. 최종 선정 모델링 기법
         - ㅇㅇ
