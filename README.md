@@ -20,7 +20,7 @@
         - 데이터 크기: 1024 * 1024 
     2) 데이터 전처리 과정 및 방법
         - canny를 이용하여 특성을 추출
-![canny.jpg](img\canny.jpg)
+![canny](./img/canny.jpg "canny")
 
 # 3. 모델링 기법 후보    
     1) 모델 기법
@@ -33,17 +33,17 @@
 #### 2) 구조
 
 1. Stable Diffusion
-![Stable_Diffusion.png](img\Stable_Diffusion.png)
+![Stable_Diffusion.png](./img./Stable_Diffusion.png)
 2. Latent Diffusion
-![Latent_Diffsuion.png](img\Latent_Diffsuion.png)
+![Latent_Diffsuion.png](./img/Latent_Diffsuion.png)
 3. VAE
-![VAE.png](img\VAE.png)
+![VAE.png](./img/VAE.png)
 4. CLIP
-![CLIP.png](img\CLIP.png)
+![CLIP.png](./img/CLIP.png)
 5. U-Net
-![U_Net.png](img\U_Net.png)
+![U_Net.png](./img/U_Net.png)
 6. Scheduler
-![Scheduler.png](img\Scheduler.png)
+![Scheduler.png](./img/Scheduler.png)
 - step별로 노이즈의 정도 설정
 # 4. 모델 선정 기준 및 모델링 기법들 비교
     1) 모델 선정 기준
