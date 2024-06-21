@@ -40,29 +40,34 @@
 
 ### 2) 구조
 
-1. Stable Diffusion
-![Stable_Diffusion.png](./img./Stable_Diffusion.png)
+1. Stable Diffusion 
 
-2. Latent Diffusion
+![Stable_Diffusion.png](./img/Stable_Diffusion.png)
+
+2. Latent Diffusion 
+
 ![Latent_Diffsuion.png](./img/Latent_Diffsuion.png)
 
-3. VAE
+3. VAE  
+
 ![VAE.png](./img/VAE.png)
 
-4. CLIP
+4. CLIP  
+
 ![CLIP.png](./img/CLIP.png)
 
-5. U-Net
+5. U-Net  
+
 ![U_Net.png](./img/U_Net.png)
 
-6. Scheduler
+6. Scheduler  
+
 ![Scheduler.png](./img/Scheduler.png)
 
 - step별로 노이즈의 정도 설정
--
+
 
 # 4. 모델 선정 기준 및 모델링 기법들 비교
-<<<<<<< HEAD
     1) 모델 선정 기준
         - SDXL : 안정적인 확산 모델을 기반으로 한다
         - Dreambooth : 특정 텍스트 토큰을 제공한 이미지의 Feature에 Overfitting 시켜  
@@ -89,7 +94,6 @@
             StableDiffusionXL Base : 레이어 수: 1680, 파라미터 수: 2567463684
         - 사용된 기술
             - Pretrained 모델 사용 여부 및 어떤 부분을 미세 조정했는지
-=======
 
 1) 모델 선정 기준
     - SDXL : 안정적인 확산 모델을 기반으로 한다
@@ -121,4 +125,3 @@ c. 선전 모델에 대한 설명
   
     - 사용된 기술
         - Pretrained 모델 사용 여부 및 어떤 부분을 미세 조정했는지
->>>>>>> 53accf4014d5e693820db43010d301a4e1bfe2d1
