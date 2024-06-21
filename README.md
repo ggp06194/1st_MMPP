@@ -42,16 +42,22 @@
 
 1. Stable Diffusion
 ![Stable_Diffusion.png](./img./Stable_Diffusion.png)
+
 2. Latent Diffusion
 ![Latent_Diffsuion.png](./img/Latent_Diffsuion.png)
+
 3. VAE
 ![VAE.png](./img/VAE.png)
+
 4. CLIP
 ![CLIP.png](./img/CLIP.png)
+
 5. U-Net
 ![U_Net.png](./img/U_Net.png)
+
 6. Scheduler
 ![Scheduler.png](./img/Scheduler.png)
+
 - step별로 노이즈의 정도 설정
 -
 
