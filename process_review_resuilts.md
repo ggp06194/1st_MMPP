@@ -51,7 +51,7 @@
       - 역할 및 책임: 모델 테스트, 데이터셋 조사
 
 - 각 단계에서 사용된 도구 및 시스템
-    - Python, Pytorch, Colab, Microsoft PowerPoint
+    - Python, Pytorch, Jupyter Notebook, Colab, Microsoft PowerPoint
 
 
 # 2. 각 프로세스 결과 분석
